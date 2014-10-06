@@ -1,0 +1,16 @@
+{
+    "name": "fhildebrandt/simple-library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Frank Hildebrandt",
+            "email": "frank.hildebrandt@me.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "SimpleLibrary\\": "src"
+        }
+    }
+}
